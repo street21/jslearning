@@ -15,7 +15,7 @@
 function itsTime(key, num){
     switch (key) {
         case 'r':
-            var ricked=new Audio('sound/Never_Gonna_Give_You_Up_Original.mp3');
+            var ricked=new Audio('Never_Gonna_Give_You_Up_Original.mp3');
             ricked.play();
             $('h1').text('You got rick rolled!')
             $('p').text('Get good!')

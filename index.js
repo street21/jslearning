@@ -22,6 +22,7 @@ function itsTime(key, num){
             $('p')[1].remove();
             $('.top').css('padding','70px')
             $('.top').css('background-color','#112D4E')
+            $('.top').css('color','white')
             $('.middle').css('background-color','#DBE2EF')
             $('.bottom').css('background-color','#3F72AF')
             break;

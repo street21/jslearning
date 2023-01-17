@@ -1,0 +1,38 @@
+body{
+    background-color: #F9F7F7;
+    margin: 0;
+}
+
+.top{
+    text-align: center;
+    font-family: monospace;
+    font-weight: bold;
+    font-size: 1.5em;
+    background-color: #DBE2EF;
+    padding: 50px;
+
+}
+
+.middle{
+    text-align: center;
+    background-color: #3F72AF;
+    padding: 25px;
+}
+
+.bottom{
+    text-align: center;
+    background-color: #112D4E;
+    padding: 40px;
+    color:#F9F7F7;
+}
+
+.cat-image{
+    height: 300px;
+    padding: 25px;
+    
+}
+
+button{
+    background-color: #F9F7F7;
+    color:#F9F7F7;
+}
